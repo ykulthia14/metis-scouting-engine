@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+soccerdata
+lxml
+curl_cffi
+pyarrow
+requests
